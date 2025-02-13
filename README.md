@@ -3,7 +3,7 @@
 👯 I’m looking  forward to collaborate on web projects<br>
 🤝 I’m looking forward for suggestions<br>
 🌱 I have created an open-source .net 8 MVC Email Marketing Web application.  Check it out! 👇
-[Email Marketing Web Application](https://github.com/duritoo/ysent.git) <br> Under maintanance
+[Email Marketing Web Application]) <br> Under maintanance
       <br>
 
 
