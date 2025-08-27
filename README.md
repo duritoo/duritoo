@@ -24,3 +24,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DURITOO&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# DevOps Project 1
+
+![CI/CD Pipeline](https://github.com/<duritoo>/<pr_001>/actions/workflows/docker-build.yml/badge.svg)
+
