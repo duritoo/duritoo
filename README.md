@@ -27,5 +27,5 @@
 
 # DevOps Project 1
 
-![CI/CD Pipeline](https://github.com/<duritoo>/<pr_001>/actions/workflows/docker-build.yml/badge.svg)
+![CI/CD Pipeline](https://github.com/duritoo/pr_001/actions/workflows/docker-build.yml/badge.svg)
 
