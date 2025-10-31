@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on .net 8 MVC web application in my organizaion @yojanakar Innovation<br>
-👯 I’m looking  forward to collaborate on web projects<br>
+👯 I’m looking  forward to collaborate on cross plateform projects<br>
 🤝 I’m looking forward for suggestions<br>
 🌱 I have created an open-source .net 8 MVC Email Marketing Web application.  Check it out! 👇
 [Email Marketing Web Application]) <br> Under maintanance
